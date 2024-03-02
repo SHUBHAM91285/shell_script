@@ -1,0 +1,6 @@
+PING www.google.com (142.250.193.36) 56(84) bytes of data.
+64 bytes from del11s15-in-f4.1e100.net (142.250.193.36): icmp_seq=1 ttl=118 time=18.5 ms
+
+--- www.google.com ping statistics ---
+1 packets transmitted, 1 received, 0% packet loss, time 0ms
+rtt min/avg/max/mdev = 18.479/18.479/18.479/0.000 ms
